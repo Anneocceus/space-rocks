@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object_bullet","order":1,"path":"objects/Object_bullet/Object_bullet.yy",},
+    {"name":"Object_game","order":3,"path":"objects/Object_game/Object_game.yy",},
+    {"name":"Object_rock","order":2,"path":"objects/Object_rock/Object_rock.yy",},
+  ],
 }
